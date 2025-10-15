@@ -19,8 +19,7 @@ https://fcm.googleapis.com/v1/projects/myapplication-bbee5/messages:send
         }
     }
 }
-#_________________________________________________________________________________________________________________________________________________
-set the json file on the project on the app=>res=>raw (folder)
+#_______________set the json file on the project on the app=>res=>raw (folder)
 
 {
   "type": "service_account",
@@ -51,5 +50,7 @@ assets/fb3ebd43-fcbd-4b94-ab79-fb6fac8d55a4" />
 
 <img width="336" height="727" alt="Screenshot 2025-08-27 at 10 47 28 AM" src="https://github.com/user-attachments/assets/99c0f404-ba19-43a6-8c6c-54576e0faffe" />
 
+![WhatsApp Image 2025-10-14 at 17 33 09](https://github.com/user-attachments/assets/12cbeffe-5928-4004-a74c-d1ea55fc59b6)
 
 
+<img width="1155" height="577" alt="Screenshot 2025-10-15 at 1 28 14 PM" src="https://github.com/user-attachments/assets/72be66f3-7375-4a8c-94f4-2e13af66b2a9" />
